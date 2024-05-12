@@ -1,5 +1,9 @@
-How to run:
-open folder src
-open folder main
-open file main.java
-run the program
+# How to run:
+
+1. open folder src
+
+2. open folder main
+
+3. open file main.java
+
+4. run the program
