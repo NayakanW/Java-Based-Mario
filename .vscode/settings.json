@@ -1,0 +1,14 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.project.referencedLibraries": [
+        {
+            "source": "./res",
+            "destination": "./bin"
+        }
+    ],
+    "java.project.outputPath": "./bin",
+    "java.project.sourcePaths": [
+        "res",
+        "src"
+    ],
+}
